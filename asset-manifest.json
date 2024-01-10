@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/assignment/static/css/main.4c6c2666.css",
+    "main.js": "/assignment/static/js/main.963c637c.js",
+    "static/media/pexels-tomé-louro-1666779.jpg": "/assignment/static/media/pexels-tomé-louro-1666779.c823ec4114adff8dc490.jpg",
+    "index.html": "/assignment/index.html",
+    "main.4c6c2666.css.map": "/assignment/static/css/main.4c6c2666.css.map",
+    "main.963c637c.js.map": "/assignment/static/js/main.963c637c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c6c2666.css",
+    "static/js/main.963c637c.js"
+  ]
+}
